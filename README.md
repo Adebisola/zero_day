@@ -1,0 +1,1 @@
+This is a README.md file for the Vagrant task. I created a directory from the terminal. This is to test my ability to work outside the sandbox.
